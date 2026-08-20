@@ -62,8 +62,6 @@ The project involved technologies including:
 
 ### Products
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c506df32-e1bc-4a26-a8d7-1417fd1f1a66" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/da5e6cbf-022e-49a3-834c-8c522fa08108" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/354463af-d944-4498-9c2b-ad3d9d94889f" />
 
 
