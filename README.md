@@ -70,7 +70,8 @@ The project involved technologies including:
 
 ### About
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9c6e5ff6-1e3e-46e6-af1b-5841a90af0c4" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1b8d783b-f1b2-45ce-a3aa-3bd35a49b9c1" />
+
 
 
 ### Contact
