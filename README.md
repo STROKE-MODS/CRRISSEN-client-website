@@ -57,19 +57,26 @@ The project involved technologies including:
 
 ### Homepage
 
-![Homepage](screenshots/home.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c6010146-a04d-454e-9b65-18dd2ef6a292" />
+
 
 ### Products
 
-![Products](screenshots/products.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c506df32-e1bc-4a26-a8d7-1417fd1f1a66" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/da5e6cbf-022e-49a3-834c-8c522fa08108" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/354463af-d944-4498-9c2b-ad3d9d94889f" />
+
+
 
 ### About
 
-![About](screenshots/about.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9c6e5ff6-1e3e-46e6-af1b-5841a90af0c4" />
+
 
 ### Contact
 
-![Contact](screenshots/contact.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1fbf3f25-f364-4285-8824-2b408b9c848e" />
+
 
 ---
 
